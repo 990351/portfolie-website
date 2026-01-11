@@ -11,7 +11,8 @@ This is a simple static profile website built using only a mobile phone.
 ## Skills Used
 HTML  
 CSS  
-java script 
+java script
+
 GitHub  
 Mobile Development Workflow
 
